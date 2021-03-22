@@ -1,0 +1,4 @@
+.debug * { outline: 1px solid gold; }
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
