@@ -13,6 +13,9 @@ A single page HTML development workflow using a front-end build tool which is go
 ## You will need
 
 To get started you will need:
+
+- Node.js
+- npm (Node Package Manager)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - Tailwind Intellisense
 - Headwind
