@@ -14,11 +14,11 @@ A single page HTML development workflow using a front-end build tool which is go
 
 To get started you will need:
 
-- Node.js
-- npm (Node Package Manager)
+- [Node.js](https://nodejs.org/) 
+- [npm](https://www.npmjs.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- Tailwind Intellisense
-- Headwind
+- [Tailwind Intellisense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+- [Headwind](https://marketplace.visualstudio.com/items?itemName=heybourn.headwind)
   
 ## Get Started
 
