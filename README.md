@@ -25,7 +25,7 @@ To get started you will need:
 1. Download the repo
 2. Open folder in VS Code
 3. Open VS Code 'Terminal'
-4. Install dependencies by running - `npm i`
+4. Install dependencies by running - `npm install -D tailwindcss postcss autoprefixer vite`
 5. Run 'dev' script
 6. Go to localhost to view development server
 8. Edit files as needed
